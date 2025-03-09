@@ -84,7 +84,7 @@ The added content, is used to build our project for production and typically sta
 
 After completing the above steps, and having the same code like that of our sample project
 ```bash 
-https://github.com/Valsuh45/Webpack
+https://github.com/chojuninengu/Webpack
 ```
 
 We can now run our code using the following commands;
